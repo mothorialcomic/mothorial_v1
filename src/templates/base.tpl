@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="/{{ base_dir }}/src/css/style.css">
     <link rel="stylesheet" type="text/css" href="/{{ base_dir }}/your_content/colors_and_layout/your_stylesheet.css">
+	<link href="https://fonts.googleapis.com/css2?family=Jost&display=swap" rel="stylesheet">
     <link rel="icon" href="/{{ base_dir }}/favicon.ico" type="image/x-icon" />
     <title>{{ page_title }} - {{ comic_title }}</title>
     {%- endblock %}
