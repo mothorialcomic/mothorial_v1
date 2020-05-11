@@ -27,7 +27,7 @@ div#container {
 
 img#banner-img {
     width: 1000px;  /* The width of your banner image */
-    height: 355px;  /* The height of your banner image */
+    height: auto;/* The height of your banner image */
 }
 
 div#links-bar {
