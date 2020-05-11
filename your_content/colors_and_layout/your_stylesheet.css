@@ -42,7 +42,7 @@ a.link-bar-link {
 
 div#comic-page {
     width: 1000px;  /* The width of your comic page */
-    height: 1535px;  /* The height of your comic page */
+    height: auto; /* The height of your comic page */
 }
 
 a.navigation-button {
