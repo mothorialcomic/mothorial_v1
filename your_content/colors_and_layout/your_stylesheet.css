@@ -94,3 +94,7 @@ div.cast-member-name {
     font-size: 18pt;  /* The font size of the cast member's name in their bio */
     color: maroon;  /* The color of the cast member's name in their bio */
 }
+
+#page-title {
+	font-family: Dreadful-Regular;
+}
