@@ -13,7 +13,7 @@ body {
     background-color: white;  /* The color of the background behind everything */
     background-image: url("background_image.png");  /* The pattern on the background. Delete to change to a solid color
                                                        or replace with your own image to tile across your background. */
-    font-size: 18pt;
+    font-size: 22pt;
 }
 
 a {
