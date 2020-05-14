@@ -95,6 +95,6 @@ div.cast-member-name {
     color: maroon;  /* The color of the cast member's name in their bio */
 }
 
-#page-title {
+#page-title, .link-bar-link{
 	font-family: Dreadful-Regular;
 }
