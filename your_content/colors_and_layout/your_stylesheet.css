@@ -40,6 +40,10 @@ a.link-bar-link {
     font-size: 22pt;
 }
 
+a.link-bar-link:hover { 
+    color: black;
+}
+
 div#comic-page {
     width: 1000px;  /* The width of your comic page */
     height: auto; /* The height of your comic page */
