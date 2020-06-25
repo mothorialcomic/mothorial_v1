@@ -57,7 +57,7 @@ a.navigation-button {
 
 a.navigation-button-disabled {
     color: gray;  /* Color of the disabled navigation bar hyperlinks */
-    font-size: 18pt;  /* Size of the disabled navigation bar hyperlinks */
+    font-size: 24pt;  /* Size of the disabled navigation bar hyperlinks */
     text-decoration: none;  /* Delete this if you want your disabled navigation links to be underlined */
 }
 
